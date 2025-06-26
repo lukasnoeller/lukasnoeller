@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukasnoeller
-- 👀 I’m interested in cpp,  and python
-- 🌱 I’m currently learning openGL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in c, cpp, go and python
+- 🌱 I’m currently learning about LLMs and automated Knowledge graph construction.
+- 💞️ I’m looking to collaborate on ... something cool. :D
 - 📫 How to reach me: lukasnoller@gmail.com
 
 <!---
